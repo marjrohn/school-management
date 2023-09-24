@@ -1,0 +1,11 @@
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/controller/SchoolClassController.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/entity/SchoolClass.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/entity/Student.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/SchoolManagementApplication.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/repository/StudentRepository.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/repository/TeacherRepository.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/repository/SchoolClassRepository.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/controller/StudentController.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/controller/TeacherController.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/entity/Teacher.java
+/home/marjrohn/IdeaProjects/SchoolManagement/src/main/java/dio/bootcamp/project/SchoolManagement/config/SpringFoxConfig.java
